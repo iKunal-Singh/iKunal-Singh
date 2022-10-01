@@ -1,16 +1,19 @@
 # <p align="center">✌️ Kunal Singh</p>
 
-**<p align="center">`Digital Craftsman (Developer/Filmmaker/Creator)`</p>**
+**<p align="center">`Digital Craftsman (DevOps/Blogger/Producer)`</p>**
 
-I'm an Engineering undergrad, Blogger and Music Producer bringing imagination to life one step at a time. DevOps is a journey, not a destination.
+**<p align="center">I'm an Engineering undergrad, Blogger and Music Producer bringing imagination to life. DevOps is a journey, not a destination.</p>**
 
 - 👀 I’m interested in learning and working with community , open source contribution and give back to the community.
-- :skier: I'm currently working with Kubernetes, Docker, Ansible, AWS, Jenkins, Terraform, CI/CD, Git & GitHub
+- 🏄‍♂️ I'm currently working with linux, Kubernetes, Docker, CI/CD, Git & GitHub.
 - 🌱 I’m currently learning Python and Go language.
-- 💞️ I’m looking to collaborate on GitHub and opend source projects related to cloud computing and cloud native.
-- 📝 I regularly write articles on [https://imransaifi.hashnode.dev/](https://imransaifi.hashnode.dev/)
-- 💬 Ask me about **DevOps, Linux-Ubuntu, Kubernetes, Docker, Ansible, Jenkins, CI/CD, Bash, Shell**
-- 📫 Reach out to me at **iimransaifi1509@gmail.com**
+- ✨ I’m looking to collaborate on GitHub and opend source projects.
+- 📝 I regularly write articles on [Kunal Singh's blog](https://hashnode.com/@ikunalsingh)
+- ☮️ Connect with me 👇<p align="left">
+<a href="https://twitter.com/_ikunalsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ikunalsingh" height="25" width="35" /></a>
+<a href="https://linkedin.com/in/mohdimran1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohdimran1995" height="30" width="40" /></a>
+<a href="https://instagram.com/codenameimmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codenameimmy" height="30" width="40" /></a>
+<a href="https://hashnode.com/@imransaifi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@imransaifi" height="30" width="40" /></a>
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
