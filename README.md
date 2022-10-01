@@ -61,13 +61,11 @@ To follow Semantic v... </p> <br/> <br/>
 
 #
 
-### 📊 Stats
+<!-- ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=iKunal-Singh&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=iKunal-Singh&theme=gruvbox&border_radius=4.5) -->
 
 #
-
-<details>
 
