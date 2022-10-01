@@ -9,37 +9,55 @@
 - ✨ I’m looking to collaborate on GitHub and opend source projects.
 - 📝 I regularly write articles on [Kunal Singh's blog](https://hashnode.com/@ikunalsingh)
 - ☮️ Connect with me 👇<p align="left">
-<a href="https://twitter.com/_ikunalsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ikunalsingh" height="25" width="35" /></a>
-<a href="https://linkedin.com/in/ikunalsingha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ikunalsingha" height="25" width="35" /></a>
-<a href="https://hashnode.com/@ikunalsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ikunalsingh" height="25" width="35" /></a>
+<a href="https://twitter.com/_ikunalsingh"><img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
+<a href="https://www.linkedin.com/in/ikunalsingha"><img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://hashnode.com/@ikunalsingh"><img src="https://img.shields.io/badge/hashnode-green?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"></a>
+</p>
    
 ---
 
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+
+
+
 <br />
 
 #
 
-### 📺 Latest YouTube Videos
+### 📰 My Latest Blog Posts 
+<!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://blog.pradumnasaraf.co//5-ways-to-find-projects-in-hacktoberfest" title="5 ways to find projects in Hacktoberfest"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1663265868416/mMczT28fW.png" alt="5 ways to find projects in Hacktoberfest" width="250px" align="left" /></a>
+<a href="https://blog.pradumnasaraf.co//5-ways-to-find-projects-in-hacktoberfest" title="5 ways to find projects in Hacktoberfest"><strong>5 ways to find projects in Hacktoberfest</strong></a>
+<br/> So, what is Hacktoberfest?
+Hacktoberfest is a yearly Open Source celebration/event in October to encourage more people to contribute to open source. It's all about learning and giving back to the community.
+Why should you take part?
+It's fun working ... </p> <br/> <br/>
+<p align="left">
+<a href="https://blog.pradumnasaraf.co//automate-your-releases-on-github" title="Automate your releases on GitHub."><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1660738940511/Z6-7aWbue.png" alt="Automate your releases on GitHub." width="250px" align="left" /></a>
+<a href="https://blog.pradumnasaraf.co//automate-your-releases-on-github" title="Automate your releases on GitHub."><strong>Automate your releases on GitHub.</strong></a>
+<br/> So, what are releases?
+Packaging/bundling software and making it available for a broader audience for download and use.
+Why use them?
 
-<!-- BEGIN YOUTUBE-CARDS -->
-[![I Made a Custom GitHub Profile README Portfolio (and you can, too)](https://ytcards.demolab.com/?id=9A8sQZDRn5o&title=I+Made+a+Custom+GitHub+Profile+README+Portfolio+%28and+you+can%2C+too%29&timestamp=1663770604&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=655 "I Made a Custom GitHub Profile README Portfolio (and you can, too)")](https://www.youtube.com/watch?v=9A8sQZDRn5o)
-[![5 Coding Projects (from beginner to advanced)](https://ytcards.demolab.com/?id=n2B-FClr5rA&title=5+Coding+Projects+%28from+beginner+to+advanced%29&timestamp=1663079409&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1090 "5 Coding Projects (from beginner to advanced)")](https://www.youtube.com/watch?v=n2B-FClr5rA)
-[![I Built an AI That Shoots Me in the Face When I Get Distracted](https://ytcards.demolab.com/?id=A8eegxL82PI&title=I+Built+an+AI+That+Shoots+Me+in+the+Face+When+I+Get+Distracted&timestamp=1662046201&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=570 "I Built an AI That Shoots Me in the Face When I Get Distracted")](https://www.youtube.com/watch?v=A8eegxL82PI)
-[![Why I’m able to Code 4 Hours with NO breaks (how to stay focused & productive)](https://ytcards.demolab.com/?id=H68Iqm6c36U&title=Why+I%E2%80%99m+able+to+Code+4+Hours+with+NO+breaks+%28how+to+stay+focused+%26+productive%29&timestamp=1660140015&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=538 "Why I’m able to Code 4 Hours with NO breaks (how to stay focused & productive)")](https://www.youtube.com/watch?v=H68Iqm6c36U)
-[![My Visual Studio Code Setup for Web Development](https://ytcards.demolab.com/?id=H2gvHxC9gFY&title=My+Visual+Studio+Code+Setup+for+Web+Development&timestamp=1659103208&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=922 "My Visual Studio Code Setup for Web Development")](https://www.youtube.com/watch?v=H2gvHxC9gFY)
-[![Everything You NEED to Know About WEB APP Architecture](https://ytcards.demolab.com/?id=sDlCSIDwpDs&title=Everything+You+NEED+to+Know+About+WEB+APP+Architecture&timestamp=1655911813&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=627 "Everything You NEED to Know About WEB APP Architecture")](https://www.youtube.com/watch?v=sDlCSIDwpDs)
-<!-- END YOUTUBE-CARDS -->
+To distribute the software (Binary distribution).
+To keep track of type and amount of changes.
+To follow Semantic v... </p> <br/> <br/>
+<!-- HASHNODE_BLOG:END -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+<div align="center">
+<p><a href="https://hashnode.com/@ikunalsingh"><img src="https://img.shields.io/badge/Follow For More-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></p>
+</div>
 
 #
 
@@ -52,8 +70,4 @@
 #
 
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
 
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
