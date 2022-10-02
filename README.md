@@ -37,22 +37,15 @@
 ### 📰 My Latest Blog Posts 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://blog.pradumnasaraf.co//5-ways-to-find-projects-in-hacktoberfest" title="5 ways to find projects in Hacktoberfest"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1663265868416/mMczT28fW.png" alt="5 ways to find projects in Hacktoberfest" width="250px" align="left" /></a>
-<a href="https://blog.pradumnasaraf.co//5-ways-to-find-projects-in-hacktoberfest" title="5 ways to find projects in Hacktoberfest"><strong>5 ways to find projects in Hacktoberfest</strong></a>
-<br/> So, what is Hacktoberfest?
-Hacktoberfest is a yearly Open Source celebration/event in October to encourage more people to contribute to open source. It's all about learning and giving back to the community.
-Why should you take part?
-It's fun working ... </p> <br/> <br/>
+<a href="https://ikunalsingh.hashnode.dev/software-development-models-architecture" title="Software Development Models & Architecture"><img src="https://ikunalsingh.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1661350347440%2FQx7xiKFQa.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="Software Development Models & Architecture" width="250px" align="left" /></a>
+<a href="https://ikunalsingh.hashnode.dev/software-development-models-architecture" title="Software Development Models & Architecture"><strong>Software Development Models & Architecture</strong></a>
+<br/> What/who/why are Process Models?
+🤔 What ->A framework for the activities, actions, and tasks that are required to build high-quality software.
+It is an adaptable approach that enables the people doing the work to pick and choose the appropriate set of work actions and tasks. </p> <br/> <br/>
 <p align="left">
-<a href="https://blog.pradumnasaraf.co//automate-your-releases-on-github" title="Automate your releases on GitHub."><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1660738940511/Z6-7aWbue.png" alt="Automate your releases on GitHub." width="250px" align="left" /></a>
-<a href="https://blog.pradumnasaraf.co//automate-your-releases-on-github" title="Automate your releases on GitHub."><strong>Automate your releases on GitHub.</strong></a>
-<br/> So, what are releases?
-Packaging/bundling software and making it available for a broader audience for download and use.
-Why use them?
-
-To distribute the software (Binary distribution).
-To keep track of type and amount of changes.
-To follow Semantic v... </p> <br/> <br/>
+<a href="https://ikunalsingh.hashnode.dev/osi-model-and-its-layers-in-computer-network" title="OSI Model & Its Layers in Computer Network"><img src="https://ikunalsingh.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1656784750181%2FfKAMVYgt_.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="Automate your releases on GitHub." width="250px" align="left" /></a>
+<a href="https://ikunalsingh.hashnode.dev/osi-model-and-its-layers-in-computer-network" title="OSI Model & Its Layers in Computer Network"><strong>OSI Model & Its Layers in Computer Network</strong></a>
+<br/>A networking framework to implement protocols in layers, with control passed from one layer to the following and how information from a software application in one computer moves through a physical medium to the software application in another computer. </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <div align="center">
