@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in learning and working with community , open source contribution and give back to the community.
 - 🏄‍♂️ I'm currently working with linux, Kubernetes, Docker, CI/CD, Git & GitHub.
-- ✨ I’m looking to collaborate on GitHub and opend source projects.
+- ✨ I’m looking to collaborate on GitHub and open source projects.
 - 📝 I regularly write articles on [Kunal Singh's blog](https://hashnode.com/@ikunalsingh)
 - ☮️ Connect with me 👇<p align="left">
 <a href="https://twitter.com/_ikunalsingh"><img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
