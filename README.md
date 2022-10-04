@@ -8,6 +8,7 @@
 - 🏄‍♂️ I'm currently working with linux, Kubernetes, Docker, CI/CD, Git & GitHub.
 - ✨ I’m looking to collaborate on GitHub and open source projects.
 - 📝 I write articles on [Kunal Singh's blog](https://hashnode.com/@ikunalsingh)
+- 🏀 Apart from technology, I enjoy producing Music, watching Basketball, F1, & MMA.
 - ☮️ Connect with me 👇<p align="left">
 <a href="https://twitter.com/_ikunalsingh"><img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
 <a href="https://www.linkedin.com/in/ikunalsingha"><img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
