@@ -5,7 +5,7 @@
 **<p align="center">I'm an Engineering undergrad, Blogger and Music Producer bringing imagination to life. DevOps is a journey, not a destination.</p>**
 
 - 👀 I’m interested in learning and working with community , open source contribution and give back to the community.
-- 🏄‍♂️ I'm currently working with linux, Kubernetes, Docker, CI/CD, Git & GitHub.
+- 🏄‍♂️ I'm currently working with Linux, Kubernetes, Docker, CI/CD, Git & GitHub.
 - ✨ I’m looking to collaborate on GitHub and open source projects.
 - 📝 I write articles on [Kunal Singh's blog](https://hashnode.com/@ikunalsingh)
 - 🏀 Apart from technology, I enjoy producing Music, watching Basketball, F1, & MMA.
@@ -55,12 +55,12 @@ It is an adaptable approach that enables the people doing the work to pick and c
 </div>
 
 #
+![Snake animation](https://github.com/iKunal-Singh/iKunal-Singh/blob/output/github-contribution-grid-snake.svg)
 
 <!-- ### 📊 Stats
-
 ![kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=iKunal-Singh&show_icons=true&theme=gruvbox)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=iKunal-Singh&theme=gruvbox&border_radius=4.5) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=iKunal-Singh&theme=gruvbox&border_radius=4.5) 
 
-#
+# -->
 
