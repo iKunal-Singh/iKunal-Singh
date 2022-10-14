@@ -1,3 +1,4 @@
+[![Contribute in the browser](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/iKunal-Singh/iKunal-Singh)
 # <p align="center">✌️ Kunal Singh</p>
 
 **<p align="center">`Digital Craftsman (DevOps/Blogger/Producer)`</p>**
@@ -29,12 +30,7 @@
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-
-
-
 <br />
-
-#
 
 ### 📰 My Latest Blog Posts 
 <!-- HASHNODE_BLOG:START -->
