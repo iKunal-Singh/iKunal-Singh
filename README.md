@@ -31,6 +31,9 @@
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 <br />
+<br>
+
+---
 
 ### 📰 My Latest Blog Posts 
 <!-- HASHNODE_BLOG:START -->
