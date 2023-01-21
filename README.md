@@ -54,8 +54,7 @@ It is an adaptable approach that enables the people doing the work to pick and c
 <p><a href="https://hashnode.com/@ikunalsingh"><img src="https://img.shields.io/badge/Follow For More-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></p>
 </div>
 
-#
-![Snake animation](https://github.com/iKunal-Singh/iKunal-Singh/blob/output/github-contribution-grid-snake.svg)
+
 
 <!-- ### 📊 Stats
 ![kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=iKunal-Singh&show_icons=true&theme=gruvbox)
