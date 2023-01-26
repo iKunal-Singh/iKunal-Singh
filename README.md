@@ -14,6 +14,7 @@
 <a href="https://twitter.com/_ikunalsingh"><img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
 <a href="https://www.linkedin.com/in/ikunalsingha"><img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://hashnode.com/@ikunalsingh"><img src="https://img.shields.io/badge/hashnode-green?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"></a>
+<a href="https://medium.com/@ikunalsingh"><img src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"></a>   
 </p>
    
 ---
