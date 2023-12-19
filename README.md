@@ -16,8 +16,14 @@
 <a href="https://hashnode.com/@ikunalsingh"><img src="https://img.shields.io/badge/hashnode-green?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"></a>
 <a href="https://medium.com/@ikunalsingh"><img src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"></a>   
 </p>
-   
+
 ---
+
+<div align="center">
+<p><a href="https://hashnode.com/@ikunalsingh"><img src="https://img.shields.io/badge/Follow For More-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></p>
+</div>
+   
+<!--
 
 ### 🧰 Languages and Tools
 
@@ -36,11 +42,6 @@
 <br />
 <br>
 
----
-
-<div align="center">
-<p><a href="https://hashnode.com/@ikunalsingh"><img src="https://img.shields.io/badge/Follow For More-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></p>
-</div>
 
 
 <!--
