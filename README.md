@@ -1,7 +1,7 @@
 [![Contribute in the browser](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/iKunal-Singh/iKunal-Singh)
 # <p align="center">✌️Hey, I'm Kunal Singh</p>
 
-**<p align="center">`Digital Craftsman (DevOps/Blogger/Producer)`</p>**
+**<p align="center">`Digital Craftsman`</p>**
 
 **<p align="center">I'm an aspiring DevOps professional, Blogger, and Music Producer bringing imagination to life. DevOps is a journey, not a destination.</p>**
 
